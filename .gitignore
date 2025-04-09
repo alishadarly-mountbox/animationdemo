@@ -14,3 +14,4 @@ node_modules/
 
 # Optional: ignore uploads (media)
 # wp-content/uploads/
+wp-config.php
